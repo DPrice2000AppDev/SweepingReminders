@@ -14,4 +14,5 @@
 
 ## Any Questions?
 
-### If you have any questions at all about your data, please don’t hesitate to contact us. We’re happy to answer anything!
+### If you have any questions at all about your data, please don’t hesitate to contact us.
+
