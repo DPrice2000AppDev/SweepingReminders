@@ -2,7 +2,7 @@
 
 ##Location Data
 
-###We request your location to find the local sales tax of the area. This information is requested from Sale-Tax.com. We do not store or persist your location data in any form, and it is discarded immediately after a sales tax amount is found.
+###We request your location to calculate the time it will take to return to your parking meter. We do not store or persist your location data in any form, and it is discarded immediately after the meter warning is canceled or when a new warning is created.
 
 ##Debugging Data
 
@@ -10,7 +10,7 @@
 
 ##Personal Data
 
-###Put simply, nothing you enter in Spend Stack is ever viewable by us. For debugging purposes, we may ask you to provide this kind of information to troubleshoot an issue. Otherwise, it is written directly to your device and any data that’s synced is done so via Apple’s iCloud services and is not accessible to us.
+###Put simply, nothing you enter in Sweeping Reminders is ever viewable by us. For debugging purposes, we may ask you to provide this kind of information to troubleshoot an issue. Otherwise, it is written directly to your device and any data that’s synced is done so via Apple’s iCloud services and is not accessible to us.
 
 ##Any Questions?
 
