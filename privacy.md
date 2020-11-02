@@ -1,6 +1,9 @@
 layout: page
+
 title: "Privacy Policy"
+
 permalink: /
+
 #Privacy Policy
 
 ##Location Data
