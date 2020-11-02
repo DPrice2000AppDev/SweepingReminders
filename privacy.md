@@ -26,5 +26,4 @@ sweepingreminders@gmail.com<br>
 <https://github.com/DPrice2000AppDev/SweepingReminders/issues>
 
 
-###### Version: 1.0
-###### Updated 11/1/2020
+###### Version: 1.0 <br>Updated 11/1/2020
