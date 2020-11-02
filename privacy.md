@@ -22,9 +22,9 @@ IF YOU DISAGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE 
 
 If you have any questions at all about your data, please don’t hesitate to contact us.
 
-sweepingreminders@gmail.com
-https://github.com/DPrice2000AppDev/SweepingReminders/issues
+sweepingreminders@gmail.com<br>
+https://github.com/DPrice2000AppDev/SweepingReminders/issues<br>
 
 
-#### Version 1.0
-#### Updated 11/1/2020
+#### Version: 1.0
+Updated 11/1/2020
