@@ -1,9 +1,12 @@
 # Coming Soon to the Apple App Store
 ## Sweeping Reminders is a tool to help you avoid fees and tickets.
 
-### Street Sweeping - Provides a calendar view and alerts to remind you of street sweeping in both sides of your street
-### Parking Meters - Generates smart alerts to get you back to your car before the meter expires.  
-### Garage Fees - Keeps a running total of your garage parking fees. Know what you will pay now, and in the future.
+### Street Sweeping - Can't figure out when the street sweeper is coming?  The app contains a calendar view to show you when street sweeping is scheduled.  It also notifies you the day before.
+### Parking Meters - Not sure if you can get back to the car before your parking meter expires?  The app uses Apple's walking directions to figure out how long it will take to return to the meter.  It notifies you when you need to return to the car, with a little time to spare.  
+### Garage Fees - Can't figure out how much the parking garage is going to charge?  Our calculator will tell you the total fee now and in the future. 
 
-
-
+<img src="Calendar View.png">
+<img src="Rules View.png">
+<img src="Meter View.png">
+<img src="Fee Creator.png">
+<img src="Fee View.png">
