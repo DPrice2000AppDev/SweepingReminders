@@ -6,3 +6,4 @@
 ### Garage Fees - Can't figure out how much the parking garage is going to charge?  Our calculator will tell you the total fee now and in the future. 
 
 [Calendar View](Calendar View.png) | [Rules View](Rules View.png) | [Meter View](Meter View.png) | [Fee Calculator](Fee Creator.png) | [Fee View](Fee View.png)
+<img src="Calendar%20View.png">
